@@ -98,8 +98,3 @@
    const texto2 = "Script";
    console.log(texto1.concat(texto2)); // "JavaScript"
    ```
-
-### **Conclusão**
-Esses métodos são fundamentais para manipular e transformar strings em JavaScript. Lembre-se que todos esses métodos não alteram a string original, mas retornam uma nova string modificada. Para "salvar" a modificação, é necessário atribuir o resultado a uma variável.
-
-Se precisar de mais detalhes sobre algum método ou exemplos específicos, é só me avisar!
